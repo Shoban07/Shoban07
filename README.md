@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shoban Kumar Rajasekar</h1>
+<h1 align="center">Huge Hi.. <img data-target="animated-image.replacedImage" alt="Hi.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="width: 10px; height: 10px; display: block; opacity: 1;">, I'm Shoban Kumar Rajasekar</h1>
 <h3 align="center">Always a curious and budding software developer, Oratorical and Essay Writer. Lover of Professional Cricket</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoban07&label=Profile%20views&color=0e75b6&style=flat" alt="shoban07" /> </p>
